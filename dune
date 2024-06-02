@@ -1,0 +1,4 @@
+(test
+ (name sigchld)
+ (modules sigchld)
+ (libraries unix threads.posix))
